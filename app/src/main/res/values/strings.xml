@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">3rabota</string>
+    <string name="textname">Имя</string>
+    <string name="textage">Возраст</string>
+    <string name="textspec">Специализация</string>
+    <string name="tfoto">Фото</string>
+    <string name="tpro">Проекты</string>
+    <string name="tdos">Достижения</string>
 </resources>
